@@ -1,0 +1,36 @@
+name,gender,age,country,years_of_experience,programming_language,salary,favorite_ide
+Sarah Johnson,Female,32,United States,6,Python,75000,PyCharm
+John Smith,Male,25,Canada,3,Java,55000,Eclipse
+Amy Lee,Female,28,China,4,JavaScript,60000,VS Code
+David Kim,Male,40,South Korea,12,Python,120000,Spyder
+Nina Patel,Female,23,India,1,C++,45000,Visual Studio
+Mohammed Ali,Male,35,Egypt,8,PHP,80000,Sublime Text
+Hannah Brown,Female,29,Australia,5,Java,65000,IntelliJ IDEA
+Tom Jackson,Male,27,United Kingdom,3,Python,50000,PyCharm
+Sophie Nguyen,Female,26,Vietnam,2,JavaScript,55000,Visual Studio Code
+Maxim Ivanov,Male,33,Russia,9,Python,90000,PyCharm
+Lisa Kim,Female,30,South Korea,7,Java,70000,NetBeans
+Ahmed Hassan,Male,39,Egypt,10,PHP,95000,Atom
+Isabelle Tremblay,Female,31,Canada,5,Python,80000,PyCharm
+Juan Rodriguez,Male,29,Mexico,6,C#,65000,Visual Studio
+Yuka Sato,Female,24,Japan,2,JavaScript,50000,Sublime Text
+Maximilian Schneider,Male,36,Germany,11,Java,100000,Eclipse
+Sophia Lopez,Female,26,Mexico,3,Python,55000,Spyder
+Jung Soo-Kyung,Male,34,South Korea,8,Python,95000,PyCharm
+Jenny Wang,Female,27,China,4,JavaScript,60000,Visual Studio Code
+Adam Goldberg,Male,30,United States,5,Python,70000,PyCharm
+Fatima Ali,Female,29,Pakistan,6,Java,65000,IntelliJ IDEA
+Mehmet Yilmaz,Male,37,Turkey,9,Python,85000,Sublime Text
+Maria Martinez,Female,28,Spain,4,Python,60000,PyCharm
+David Wong,Male,26,Hong Kong,3,JavaScript,55000,WebStorm
+Sara Al-Sayed,Female,33,Saudi Arabia,7,Java,80000,NetBeans
+Ali Ahmed,Male,40,Pakistan,11,PHP,120000,Visual Studio Code
+Emma Jones,Female,25,United Kingdom,2,Python,50000,PyCharm
+Ibrahim Hassan,Male,35,Egypt,9,Python,90000,Spyder
+Julie Martin,Female,30,France,6,JavaScript,70000,Atom
+Dae-Hyun Kim,Male,28,South Korea,4,Java,55000,Eclipse
+Amina Khalid,Female,27,Pakistan,3,Python,55000,PyCharm
+Vladimir Petrov,Male,34,Russia,8,C++,95000,Visual Studio
+Vladimir Petrov,Male,34,Russia,8,C++,95000,Visual Studio
+Natasha Ivanova,Female,26,Russia,2,Python,55000,Sublime
+Natasha Ivanova,Female,26,Russia,2,Python,55000,Sublime
